@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: com.techwasti.kafkaex
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, docker, file-watch, gradle, java, java-application, junit, kafka, logback, readme, shade, yaml]
