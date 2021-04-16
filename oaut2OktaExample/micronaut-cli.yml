@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.techwasti.secureex
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, gradle, http-client, java, java-application, junit, logback, netty-server, readme, security-annotations, security-jwt, security-oauth2, shade, views-thymeleaf, yaml]
