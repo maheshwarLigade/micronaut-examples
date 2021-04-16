@@ -6,6 +6,7 @@ micronaut is framework to develop microservice and cloud native apps using Java 
 3. https://www.techwasti.com/dockerise-micronaut-application/
 4. https://www.techwasti.com/installation-of-micronaut-on-macosx-linux/
 5. https://www.techwasti.com/how-to-develop-a-single-page-application-spa-with-micronaut/
+6. https://www.techwasti.com/introduction-to-micronaut-data/
 
 To run gradle micronaut application use below command 
  ##From your application directory 
