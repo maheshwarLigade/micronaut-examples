@@ -12,10 +12,10 @@ micronaut:
     oauth2:
       clients:
         default:
-          client-id: 0oalf4hsqqRp87gLR5d6
-          client-secret: YvcNnJiLZSidxVzndw2y5Sv3ggL0LCOeP-rnbzDA
+          client-id: ${clientid}
+          client-secret: ${client-secret}
           openid:
-            issuer: https://dev-38029621.okta.com
+            issuer: ${issuer domain}
     endpoints:
       logout:
         enabled:
